@@ -1,0 +1,6 @@
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+obj/
+Library/
+Logs/
+UnityAnalyzer.sln
